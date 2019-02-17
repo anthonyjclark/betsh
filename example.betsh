@@ -1,0 +1,9 @@
+
+let students = [
+    "one", "two", "three",
+    "four", "five", "six",
+]
+
+for student in students {
+    println "$student"
+}
